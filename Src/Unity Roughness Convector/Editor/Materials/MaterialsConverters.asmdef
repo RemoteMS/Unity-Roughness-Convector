@@ -1,0 +1,6 @@
+{
+  "name": "MaterialsConverters",
+  "includePlatforms": [
+    "Editor"
+  ]
+}

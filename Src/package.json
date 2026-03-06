@@ -1,0 +1,30 @@
+{
+  "name": "com.rms.unity-roughness-texture-convector",
+  "version": "1.0.0",
+  "displayName": "Unity Roughness Texture Convector",
+  "description": "A Unity editor tool that generates constants for assets in Resources folders.",
+  "unity": "2020.3",
+  "author": {
+    "name": "RemoteMS",
+    "url": "https://github.com/RemoteMS"
+  },
+  "keywords": [
+    "unity",
+    "Unity",
+    "editor",
+    "generator",
+    "Unity Roughness Convector",
+    "Unity Roughness Texture Convector",
+    "Unity Roughness Texture Convector inside Editor",
+    "Unity Roughness Texture Convector in Editor",
+    "Unity Roughness Texture",
+    "Unity Roughness Map",
+    "Roughness Map"
+  ],
+  "dependencies": {},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RemoteMS/Unity-Roughness-Texture-Convector.git"
+  }
+}
