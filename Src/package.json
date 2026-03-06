@@ -2,8 +2,8 @@
   "name": "com.rms.unity-roughness-texture-convector",
   "version": "1.0.0",
   "displayName": "Unity Roughness Texture Convector",
-  "description": "A Unity editor tool that generates constants for assets in Resources folders.",
-  "unity": "2020.3",
+  "description": "A tool for Unity that allows you to convert Roughness textures directly in the editor.",
+  "unity": "2021.3",
   "author": {
     "name": "RemoteMS",
     "url": "https://github.com/RemoteMS"

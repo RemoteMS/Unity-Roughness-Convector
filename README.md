@@ -12,7 +12,8 @@ A tool for Unity that allows you to convert Roughness textures directly in the e
 
 ![Tools Window](img/tool_window.png)
 
-3. Clicking the `Convert` button will generate a new image. By default, it will be generated in the same directory as the original file..
+3. Clicking the `Convert` button will generate a new image. By default, it will be generated in the same directory as
+   the original file..
    You can select any directory by unchecking the `Use Source Folder` checkbox.
 
 ## Installation
@@ -22,7 +23,7 @@ A tool for Unity that allows you to convert Roughness textures directly in the e
 3. Enter:
 
 ```
-https://github.com/RemoteMS/Unity-Resources-Constants-Generator.git?path=/src/Unity-Resources-Constants-Generator#1.0.3
+https://github.com/RemoteMS/Unity-Roughness-Convector.git?path=/Src
 ```
 
 4. Click `Add`.
@@ -32,7 +33,7 @@ Alternatively, open Packages/manifest.json and add the following to the dependen
 ```json
 {
   "dependencies": {
-    "com.rms.unityresourcegeneration": "https://github.com/RemoteMS/Unity-Resources-Constants-Generator.git?path=/src/Unity-Resources-Constants-Generator#1.0.3"
+    "com.rms.unity-roughness-texture-convector": "https://github.com/RemoteMS/Unity-Roughness-Convector.git?path=/Src"
   }
 }
 ```
